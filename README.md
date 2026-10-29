@@ -1,5 +1,7 @@
-# Football-2D-Manager
+# Football 2D Manager
+
 A 2D football simulation manager game
+- Open-source, free to play & try, currently in Alpha-v0.1 Structure
 What to expect?
 - **Fresh 2D UI design for managing your favorite clubs**: 50+ Clubs will be supported (in Dec 26 Update)
 - **Realistic 2D Match Engine**: Watch matches unfold in real-time with top-down 2D simulation, tactical movement, and dynamic player AI. (in Nov 26 update)
